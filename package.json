@@ -1,5 +1,5 @@
 {
-  "name": "@ethereum-waffle/compiler",
+  "name": "waffle-compiler",
   "dependencies": {
     "@resolver-engine/imports": "^0.3.3",
     "@resolver-engine/imports-fs": "^0.3.3",
