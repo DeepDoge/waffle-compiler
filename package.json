@@ -1,4 +1,5 @@
 {
+  "type": "module",
   "name": "waffle-compiler",
   "dependencies": {
     "@resolver-engine/imports": "^0.3.3",
