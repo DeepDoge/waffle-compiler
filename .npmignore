@@ -1,1 +1,7 @@
-/README.md
+/.vscode
+/.devcontainer
+/.github
+/.gitignore
+/.prettierrc
+/.eslintrc
+/.README.md
