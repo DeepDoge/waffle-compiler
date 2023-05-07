@@ -1,6 +1,3 @@
-![CI](https://github.com/EthWorks/Waffle/workflows/CI/badge.svg)
-[![](https://img.shields.io/npm/v/@ethereum-waffle/compiler.svg)](https://www.npmjs.com/package/@ethereum-waffle/compiler)
-
 ![Ethereum Waffle](https://raw.githubusercontent.com/EthWorks/Waffle/master/docs/source/logo.png)
 
 This is a fork of [@ethereum-waffle/compiler](https://github.com/TrueFiEng/Waffle), but without typechain.
