@@ -9,7 +9,7 @@ Compile solidity without the hassle.
 ## Installation
 
 ```
-npm i github:DeepDoge/waffle-compiler
+npm i github:DeepDoge/waffle-compiler -D
 ```
 
 ### Compilation
