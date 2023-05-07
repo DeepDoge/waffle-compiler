@@ -9,7 +9,6 @@ Compile solidity without the hassle.
 ## Installation
 
 ```
-yarn add --dev ethereum-waffle
 npm i github:DeepDoge/waffle-compiler
 ```
 
