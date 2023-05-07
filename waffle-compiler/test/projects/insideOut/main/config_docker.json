@@ -1,8 +1,0 @@
-{
-  "name": "solidity 5, dokerized solc, inside out directory structure",
-  "sourceDirectory": "./contracts",
-  "outputDirectory": "../build/nested",
-  "nodeModulesDirectory": "../modules",
-  "compilerType": "dockerized-solc",
-  "compilerVersion": "0.5.9"
-}

@@ -1,13 +1,15 @@
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
+
+.pnpm-store
 node_modules
 dist
-yarn-error.log
-/docs/build
-/docs/env
-.idea
-out
-docs/venv
-build
-cache
 
-# Auto-generated typechain files
-typechain
+# OS generated files
+.DS_Store

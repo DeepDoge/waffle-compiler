@@ -1,7 +1,0 @@
-src
-test
-.eslintrc.js
-.gitignore
-buildTestContracts.ts
-tsconfig.build.json
-tsconfig.json

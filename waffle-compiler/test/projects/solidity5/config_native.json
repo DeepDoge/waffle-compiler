@@ -1,7 +1,0 @@
-{
-  "name": "Solidity 5 - native",
-  "sourceDirectory": "./custom_contracts",
-  "outputDirectory": "./custom_build",
-  "nodeModulesDirectory": "./custom_node_modules",
-  "compilerType": "native"
-}

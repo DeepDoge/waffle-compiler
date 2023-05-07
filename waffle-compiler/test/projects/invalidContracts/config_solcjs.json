@@ -1,7 +1,0 @@
-{
-  "name": "solidity 5, solcjs, invalid contract",
-  "sourceDirectory": "./test/projects/invalidContracts",
-  "outputDirectory": "./test/projects/invalidContracts/custom_build",
-  "nodeModulesDirectory": "./test/projects/invalidContracts/custom_node_modules",
-  "compilerVersion": "0.5.9"
-}

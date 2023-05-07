@@ -1,6 +1,0 @@
-{
-  "compilerOptions": {
-    "evmVersion": "constantinople"
-  },
-  "compilerType": "native"
-}

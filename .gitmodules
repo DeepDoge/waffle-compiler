@@ -1,3 +1,0 @@
-[submodule "hardhat-waffle-plugin"]
-	path = hardhat-waffle-plugin
-	url = https://github.com/NomicFoundation/hardhat-waffle
