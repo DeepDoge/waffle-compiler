@@ -8,9 +8,7 @@ Compile solidity without the hassle.
 
 ## Installation
 
-```
 [Install Instructions](https://github.com/DeepDoge/waffle-compiler/releases)
-```
 
 ### Compilation
 
